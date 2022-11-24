@@ -1,12 +1,12 @@
-import Head from "next/head";
-import Image from "next/image";
-import AboutUs from "../components/aboutus";
-import Masthead from "../components/masthead";
-import styles from "../styles/Home.module.css";
+import Head from 'next/head'
+import AboutUs from '../components/aboutus'
+import Masthead from '../components/masthead'
+import Skills from '../components/skills'
+import Works from '../components/works'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>Margelo</title>
         <meta
@@ -17,6 +17,8 @@ export default function Home() {
       </Head>
       <Masthead />
       <AboutUs />
+      <Skills />
+      <Works />
     </div>
-  );
+  )
 }
