@@ -1,8 +1,4 @@
-My only porpuse is only to practice and learn Next.js and Tailwind. I follow the video tutorial of Takuya Matsuyama ([@devaslife](https://www.youtube.com/watch?v=GznmPACXBlY&t=800s&ab_channel=devaslife))
-
-## Website
-
-The Software agency is call [Margelo](https://margelo.io/).
+My porpuse is only to practice and learn Next.js and Tailwind. I follow the video tutorial of Takuya Matsuyama on youtube ([@devaslife](https://www.youtube.com/@devaslife)).
 
 ## Stack
 
@@ -12,6 +8,10 @@ The Software agency is call [Margelo](https://margelo.io/).
 - Vercel
 - Embla Carousel
 
+## Website
+
+[https://margelo.io/](https://margelo.io/)
+
 ## Video Tutorial
 
-[@devaslife](https://www.youtube.com/watch?v=GznmPACXBlY&t=800s&ab_channel=devaslife)
+[https://www.youtube.com/watch?v=GznmPACXBlY&t=800s&ab_channel=devaslife](https://www.youtube.com/watch?v=GznmPACXBlY&t=800s&ab_channel=devaslife)
