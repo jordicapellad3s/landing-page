@@ -2,6 +2,7 @@ import Head from 'next/head'
 import AboutUs from '../components/aboutus'
 import Masthead from '../components/masthead'
 import Skills from '../components/skills'
+import TrustedBy from '../components/trustedby'
 import Works from '../components/works'
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <AboutUs />
       <Skills />
       <Works />
+      <TrustedBy />
     </div>
   )
 }
